@@ -1,0 +1,18 @@
+/*
+======================================
+Name : studywork.c
+Author : Roman Liubkin
+Date : 2020/09/04
+Version :
+Copyright : shareware
+Description : work
+=======================================
+#include "pch.h"
+ #include <iostream>
+ int main() 
+{
+setlocale(LC_ALL, "Russian");
+ std::cout << "Hello World!\n";
+system("pause");
+return(0);
+}
